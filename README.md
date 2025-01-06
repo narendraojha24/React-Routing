@@ -71,7 +71,7 @@ Individual profile page with detailed information
 Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
